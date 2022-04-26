@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Smail-ssm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-### Hi there 👋, my name is ismail
+### Hi there 👋, my name is ismail, @Smail-ssm
 #### I am an android developper 
-Graduated from ISET Kairouan, with the applied license of developing information systems dedicating myself to all what consider the Technological progression and dreaming to become a professional android programmer in love with gaming and building personal 
-computers
+Graduated from ISET Kairouan, with the applied license of developing information systems dedicating myself to all what consider the Technological progression and dreaming to become a professional android programmer in love with gaming and building personal computers.
 
-Skills: • Database management • Photo editing (photoshop) • Mobile development • Mobile and computer maintenance (H/S) • Desktop apps development (java) • Troubleshooting (Hardware  /software) • Graphic design (logo, flyers,  banners…) • Conception UML
+### Skills: 
+  • Database management 
+  • Photo editing (photoshop) 
+  • Mobile development 
+  • Mobile and computer maintenance (H/S) 
+  • Desktop apps development (java) 
+  • Troubleshooting (Hardware  /software) 
+  • Graphic design (logo, flyers,  banners…) 
+  • Conception UML
 
 - 🌱 I’m currently learning Flutter and Dart 
 - 💬 Ask me about what ever you like  
