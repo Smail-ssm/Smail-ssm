@@ -22,9 +22,9 @@ Graduated from ISET Kairouan, with the applied license of developing information
 
 ![GitHub metrics](https://metrics.lecoq.io/Smail-ssm)  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Smail-ssm)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Smail-ssm)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-ssm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-ssm)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Smail-ssm&show_icons=true&count_private=true)  
 
