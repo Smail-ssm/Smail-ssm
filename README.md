@@ -28,7 +28,7 @@ Graduated from ISET Kairouan, with the applied license of developing information
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Smail-ssm&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Smail-ssm)  
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Smail-ssm)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/Smail-ssm)  
 
