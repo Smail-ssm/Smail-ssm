@@ -35,4 +35,4 @@ Graduated from ISET Kairouan, with the applied license of developing information
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Smail-ssm)  
 
-![Profile views](https://gpvc.arturio.dev/Smail-ssm)  
+[](https://komarev.com/ghpvc/?username=Smail-ssm&color=green)
