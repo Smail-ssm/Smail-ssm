@@ -26,7 +26,7 @@ Graduated from ISET Kairouan with a degree in Information Systems Development. F
 
 ### Profiles
 GitHub: https://github.com/Smail-ssm  
-LinkedIn: https://www.linkedin.com/in/ismail-m-a2305b135/  
+LinkedIn: https://www.linkedin.com/in/ismail-mansouri/  
 Facebook: https://www.facebook.com/smailssm  
 Instagram: https://www.instagram.com/69_smail_/  
 
